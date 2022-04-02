@@ -1,5 +1,5 @@
-﻿import MemeHeader from './Meme-header';
-import MemeForm from './Meme-form';
+﻿import MemeHeader from './MemeHeader';
+import MemeForm from './MemeForm';
 
 function App() {
     return (
